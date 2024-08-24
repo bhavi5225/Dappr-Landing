@@ -28,7 +28,7 @@
     width: 9vw;
     height: 4vh;
     top: 27px;
-    margin-left:3vw;
+    margin-left:2.5vw;
 }
 .navbar a {
     text-decoration: none;
@@ -36,7 +36,7 @@
     font-size: 25px;
     font-weight: 400;
     color: #FFFFFF;
-    margin-right: 78px;
+    margin-right: 80px;
 }
 .searched {
     width: 12vw;
@@ -54,9 +54,9 @@
     background-size: 3vh 1vw;
 }
 .menu {
-    width: 2vw;
-    height: 3vh;
-    margin-right:3vw;
+    width: 2.3vw;
+    height: 3.2vh;
+    margin-right:2.5vw;
 }
 
 /* Main Content Container */

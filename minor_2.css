@@ -39,8 +39,9 @@
     margin-right: 80px;
 }
 .searched {
+    color:#9F9F9F;
     width: 12vw;
-    height: 4.7vh;
+    height: 4.9vh;
     padding-left: 1vw;
     border:2px;
     border-color: #FFFFFF;
@@ -50,8 +51,8 @@
     font-weight: 400;
     background-image:url('images/search.png');
     background-repeat: no-repeat;
-    background-position:10.7vw 1.2vh;
-    background-size: 3vh 1vw;
+    background-position:10.95vw 1.2vh;
+    background-size: 2.5vh 1.2vw;
 }
 .menu {
     width: 2.3vw;
